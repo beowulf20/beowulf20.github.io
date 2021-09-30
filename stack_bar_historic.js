@@ -139,6 +139,8 @@ function exec() {
     })
 }
 
-window.onload= ()=>{
+setTimeout(()=>{
+    console.log('stack bar historic loaded!')
+    console.log(`token: ${TOKEN}`)
     exec()
-}
+},250)
