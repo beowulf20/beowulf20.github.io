@@ -139,6 +139,5 @@ function exec() {
     })
 }
 
-window.onload= ()=>{
-    exec()
-}
+console.log('stack bar historic loaded!')
+exec()
