@@ -138,3 +138,7 @@ function exec() {
         newPlot('myDiv', levels.reverse(), consumptions.reverse(), dates.reverse())
     })
 }
+
+window.onload= ()=>{
+    exec()
+}
