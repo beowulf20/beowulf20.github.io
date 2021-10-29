@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewbox="0 0 220 110" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" height="220" width="110" >
+  <g transform="matrix(1, 0, 0, 1, -140, -70)">
+    <rect x="146.1" y="119.777" width="96.259" height="98.953" style="stroke: rgb(0, 0, 0)"/>
+    <path d="M 194.101 76.004 L 242.685 119.659 L 145.517 119.659 L 194.101 76.004 Z" style="fill-rule: nonzero; stroke: rgb(0, 0, 0)" bx:shape="triangle 145.517 76.004 97.168 43.655 0.5 0 1@fcf0b3cb"/>
+    <path d="M -194.105 -286.451 L -146.287 -218.911 L -241.924 -218.911 L -194.105 -286.451 Z" style="stroke: rgb(0, 0, 0)" transform="matrix(-1, 0, 0, -1, 0, 0)" bx:shape="triangle -241.924 -286.451 95.637 67.54 0.5 0 1@f04d0e79"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="145.777" y1="150.56" x2="242.644" y2="150.56"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="146.378" y1="188.46" x2="242.399" y2="188.46"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 3px;" x1="146.378" y1="218.373" x2="146.378" y2="303.799"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 3px;" x1="242.933" y1="218.84" x2="242.933" y2="304.266"/>
+  </g>
+</svg>
